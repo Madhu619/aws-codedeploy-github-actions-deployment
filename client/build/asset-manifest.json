@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "//www.divinecollections.co.in/static/css/main.a6ab81bb.css",
+    "main.js": "//www.divinecollections.co.in/static/js/main.50d524b2.js",
+    "static/js/503.f9d07c04.chunk.js": "//www.divinecollections.co.in/static/js/503.f9d07c04.chunk.js",
+    "static/js/262.72b3fbff.chunk.js": "//www.divinecollections.co.in/static/js/262.72b3fbff.chunk.js",
+    "static/js/447.18fbf519.chunk.js": "//www.divinecollections.co.in/static/js/447.18fbf519.chunk.js",
+    "static/js/273.391067b4.chunk.js": "//www.divinecollections.co.in/static/js/273.391067b4.chunk.js",
+    "static/js/760.cbb88242.chunk.js": "//www.divinecollections.co.in/static/js/760.cbb88242.chunk.js",
+    "static/js/182.682215ff.chunk.js": "//www.divinecollections.co.in/static/js/182.682215ff.chunk.js",
+    "static/js/852.093fecee.chunk.js": "//www.divinecollections.co.in/static/js/852.093fecee.chunk.js",
+    "static/js/518.a0849f87.chunk.js": "//www.divinecollections.co.in/static/js/518.a0849f87.chunk.js",
+    "static/js/787.a5abbcdd.chunk.js": "//www.divinecollections.co.in/static/js/787.a5abbcdd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "//www.divinecollections.co.in/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "//www.divinecollections.co.in/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "//www.divinecollections.co.in/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "//www.divinecollections.co.in/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/20221113_110025.jpg": "//www.divinecollections.co.in/static/media/20221113_110025.b606fb25b07b4313110f.jpg",
+    "static/media/20221113_110435.jpg": "//www.divinecollections.co.in/static/media/20221113_110435.53834a318dd752b25f0d.jpg",
+    "static/media/20221113_104621.jpg": "//www.divinecollections.co.in/static/media/20221113_104621.1f3765b5d9a882316dca.jpg",
+    "static/media/20221113_105054.jpg": "//www.divinecollections.co.in/static/media/20221113_105054.471eefe8ead41d9f3af4.jpg",
+    "static/media/20221113_105644.jpg": "//www.divinecollections.co.in/static/media/20221113_105644.a53a1c77d484333a4228.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "//www.divinecollections.co.in/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/20221113_105306.jpg": "//www.divinecollections.co.in/static/media/20221113_105306.03d4c28b36c109f59f61.jpg",
+    "static/media/payment.jpeg": "//www.divinecollections.co.in/static/media/payment.2f170cbef5e6610998c2.jpeg",
+    "static/media/20221113_111253.jpg": "//www.divinecollections.co.in/static/media/20221113_111253.9eb5971afe33c3306739.jpg",
+    "static/media/festival.jpg": "//www.divinecollections.co.in/static/media/festival.b547305ff317e65ee332.jpg",
+    "static/media/logo.jpeg": "//www.divinecollections.co.in/static/media/logo.7a137193712741083401.jpeg",
+    "static/media/coming-soon.jpeg": "//www.divinecollections.co.in/static/media/coming-soon.0d8bf81513b0c67abfc7.jpeg",
+    "index.html": "//www.divinecollections.co.in/index.html",
+    "main.a6ab81bb.css.map": "//www.divinecollections.co.in/static/css/main.a6ab81bb.css.map",
+    "main.50d524b2.js.map": "//www.divinecollections.co.in/static/js/main.50d524b2.js.map",
+    "787.a5abbcdd.chunk.js.map": "//www.divinecollections.co.in/static/js/787.a5abbcdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ab81bb.css",
+    "static/js/main.50d524b2.js"
+  ]
+}

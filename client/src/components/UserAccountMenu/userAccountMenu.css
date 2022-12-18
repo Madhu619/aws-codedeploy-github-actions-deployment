@@ -1,0 +1,77 @@
+:root {
+  --gray: #555;
+  --purple: #4e65ff;
+  --green-blue: #92effd;
+  --white: #fff;
+}
+
+.user-account-menu-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg, var(--purple), var(--green-blue));
+}
+
+.navigation {
+  cursor: pointer;
+  margin-bottom: 1rem
+}
+
+.navigation .user-box {
+  overflow: hidden;
+  transition: 0.5s;
+  transition-delay: 0.5s;
+}
+
+.navigation .user-box .username {
+  font-size: 1.2rem;
+  white-space: nowrap;
+  color: var(--gray);
+}
+
+.navigation .user-box .image-box {
+  overflow: hidden;
+}
+
+.menu {
+  position: absolute;
+  padding: 0 ;
+  background: #ffdcd1;
+  height: 250px;
+  width: 200px;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.menu li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-decoration: none;
+  color: var(--gray);
+}
+
+.menu li a ion-icon {
+  font-size: 1.5rem;
+}
+
+.menu li a:hover {
+  color: var(--purple);
+}
+.navigation.active {
+  /* width: 300px;
+  height: 350px; */
+  transition: width 0.5s, height 0.5s;
+  transition-delay: 0s, 0.75s;
+}
+
+.navigation.active .user-box {
+  /* width: calc(100% - 60px); */
+  transition-delay: 0s;
+}

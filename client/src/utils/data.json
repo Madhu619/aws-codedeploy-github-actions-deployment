@@ -1,0 +1,120 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Wedding saree",
+      "price": 20000,
+      "description": "The best wedding collections",
+      "image": "false",
+      "stock": 10,
+      "discount": 0
+    },
+    {
+      "id": "2",
+      "name": "Silk Saree",
+      "price": 10000,
+      "description": "Pure silk saree with border",
+      "image": "false",
+      "stock": 10,
+      "discount": 0
+    },
+    {
+      "id": "3",
+      "name": "Festival wear",
+      "price": 5000,
+      "description": "Semi silk sarees with best look and feel",
+      "image": "festival",
+      "stock": 10,
+      "discount": 0
+    },
+    {
+      "id": "4",
+      "name": "Party wear",
+      "price": 3000,
+      "description": "Looking for something new to party",
+      "image": "false",
+      "stock": 10,
+      "discount": 0
+    },
+    {
+      "id": "5",
+      "name": "Daily wear",
+      "price": 1500,
+      "description": "For daily usage",
+      "image": "false",
+      "stock": 10,
+      "discount": 0
+    },
+    {
+      "id": "6",
+      "name": "Gift Sarees",
+      "price": 800,
+      "description": "Looking to gift someone, here you go!",
+      "image": "false",
+      "stock": 10,
+      "discount": 0
+    }
+  ],
+  "products": [
+    {
+      "id": "w1",
+      "name": "Festival Silk Saree",
+      "price": 8000,
+      "description": "Blue saree with royal blue border. Threaded with copper silk. Best fit for festival and functions",
+      "image": "20221113_105054",
+      "stock": 10,
+      "discount": 50,
+      "category": "3"
+    },
+    {
+      "id": "w2",
+      "name": "Festival Silk Saree",
+      "price": 8000,
+      "description": "Blue saree with dark red pallu. Traditional look with beautiful silver thread art.",
+      "image": "20221113_104621",
+      "stock": 10,
+      "discount": 50,
+      "category": "3"
+    },
+    {
+      "id": "w3",
+      "name": "Festival Silk Saree",
+      "price": 8000,
+      "description": "Chocolate colored saree with purple pallu and border. Rare amazing contrast and gives best look for festivals and functions.",
+      "image": "20221113_105306",
+      "stock": 10,
+      "discount": 50,
+      "category": "3"
+    },
+    {
+      "id": "w4",
+      "name": "Festival Silk Saree",
+      "price": 8000,
+      "description": "Rama green saree with dark blue pallu. Crafted with copper silk thread. Very rare combination.",
+      "image": "20221113_105644",
+      "stock": 10,
+      "discount": 40,
+      "category": "3"
+    },
+    {
+      "id": "w5",
+      "name": "Festival Silk Saree",
+      "price": 8000,
+      "description": "Light parrot green body with navy blue border and dark red pallu with purple border. Exotic combination and very elegant look. Limited stocks are available ",
+      "image": "20221113_110025",
+      "stock": 10,
+      "discount": 40,
+      "category": "3"
+    },
+    {
+      "id": "w6",
+      "name": "Festival Silk Saree",
+      "price": 8000,
+      "description": "Traditional Royal Blue Saree with pink pallu. Crafted with copper silk thread. Gives amazing look for festivals and functions",
+      "image": "20221113_110435",
+      "stock": 10,
+      "discount": 40,
+      "category": "3"
+    }
+  ]
+}

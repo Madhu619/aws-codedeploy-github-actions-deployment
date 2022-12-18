@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdivine_collections=self.webpackChunkdivine_collections||[]).push([[760],{760:function(e,i,c){e.exports=c.p+"static/media/20221113_110025.b606fb25b07b4313110f.jpg"}}]);
